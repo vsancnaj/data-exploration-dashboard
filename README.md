@@ -11,6 +11,15 @@ A versatile and user-friendly dashboard application designed to explore and anal
 - **Automatic Plot Selection**: The dashboard automatically selects the appropriate plot type (scatter plot, line chart, bar chart) based on the data type of the selected columns.
 - **Visualization**: Generate interactive and dynamic visualizations using Plotly to explore relationships and trends in your data.
 
+
+https://github.com/user-attachments/assets/ab6d3d93-054c-44c3-b953-56af06b5e8dd
+
+
+
+
+
+
+
 ## Usage
 
 1.	**Upload a CSV File**: Click on the “Upload a CSV file to start” button to upload your dataset.

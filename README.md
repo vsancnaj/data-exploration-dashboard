@@ -18,19 +18,3 @@ A versatile and user-friendly dashboard application designed to explore and anal
 3.	**Filter Your Data**: Use the filter options to narrow down your data to the most relevant subset.
 4.	**Visualize**: Select columns for the x-axis and y-axis, and the dashboard will automatically generate the most suitable plot for your data.
 
-
-## Getting Started
-
-### Prerequisites
-
-Ensure you have Python installed along with the following packages:
-
-- `streamlit`
-- `pandas`
-- `matplotlib`
-- `plotly`
-
-You can install the required packages using pip:
-
-```bash
-pip install streamlit pandas matplotlib plotly

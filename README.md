@@ -3,6 +3,10 @@
 A versatile and user-friendly dashboard application designed to explore and analyze various datasets interactively. This dashboard allows users to upload CSV files, filter data, visualize trends, and generate insights effortlessly.
 [Click here to access](https://explore-my-data.streamlit.app/)
 
+
+https://github.com/user-attachments/assets/ab6d3d93-054c-44c3-b953-56af06b5e8dd
+
+
 ## Features
 
 - **File Upload**: Upload your CSV files directly to the dashboard for analysis.
@@ -11,13 +15,6 @@ A versatile and user-friendly dashboard application designed to explore and anal
 - **Interactive Filtering**: Filter your dataset by specific columns and values to focus on the most relevant data.
 - **Automatic Plot Selection**: The dashboard automatically selects the appropriate plot type (scatter plot, line chart, bar chart) based on the data type of the selected columns.
 - **Visualization**: Generate interactive and dynamic visualizations using Plotly to explore relationships and trends in your data.
-
-
-https://github.com/user-attachments/assets/ab6d3d93-054c-44c3-b953-56af06b5e8dd
-
-
-
-
 
 
 
